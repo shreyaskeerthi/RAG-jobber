@@ -83,7 +83,7 @@ pip install pandas langchain chromadb sentence-transformers llama-cpp-python mat
 
 - Testing and validating stronger models such `e5-mistral-7b`,  `e5-large`, and `e5-xl`
 - Integrating scraper and csv generator into the pipeline
-- Attempting to take it to a point of using it as a way to query the 
+- Attempting to take it to a point of using it as a way to query the corpus
 
 ---
 
