@@ -49,3 +49,37 @@ I tested 5 different embeddings across both models to find the fastest + most co
 ---
 
 ## 🚀 Usage
+1. Install dependencies  
+```bash
+pip install pandas langchain chromadb sentence-transformers llama-cpp-python matplotlib seaborn
+```
+2. Drop in your job listings CSV (e.g., `linkedin_jobs_complete.csv`)
+3. Run the script or notebook:
+   - It’ll embed your jobs
+   - Build the vectorstore
+   - Let you type any question (e.g., “What are the top skills for these roles?”)
+   - Returns an answer using your chosen LLM
+
+---
+
+## 📈 Visuals
+
+- Charts for:
+  - Timing  
+  - Output length  
+  - Efficiency  
+- Logs everything cleanly per model/embedding
+
+---
+
+## 🧠 Ideal For
+
+- Anyone applying to lots of roles  
+- Anyone recruiting/hiring across technical job families  
+- Anyone trying to extract meaning from unstructured job descriptions  
+
+---
+
+## ✍️ Author  
+**Shreyas Keerthi**  
+Just trying to make the job search smarter, not slower.  
