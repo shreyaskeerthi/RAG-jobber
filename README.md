@@ -3,8 +3,8 @@ A lightweight retrieval-augmented generation (RAG) tool that takes a CSV of job 
 
 
 ## What this is  
-A local RAG app that helps me analyze and talk about job listings pulled from a CSV.  
-It uses embeddings + LLMs to break down what roles are really asking for — fast and on point.
+A local RAG app that helps me analyze and talk about job listings pulled from a CSV of a scraped a job board.  
+It uses embeddings + LLMs to break down what roles are really asking for.
 
 Built so I can:
 - Understand different job postings in one place
