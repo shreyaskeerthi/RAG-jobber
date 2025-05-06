@@ -79,7 +79,14 @@ pip install pandas langchain chromadb sentence-transformers llama-cpp-python mat
 - Anyone trying to extract meaning from unstructured job descriptions  
 
 ---
+## 🚀 Future Implementation (Works-In-Progress):
+
+- Testing and validating stronger models such `e5-mistral-7b`,  `e5-large`, and `e5-xl`
+- Integrating scraper and csv generator into the pipeline
+- Attempting to take it to a point of using it as a way to query the 
+
+---
+
 
 ## ✍️ Author  
 **Shreyas Keerthi**  
-Just trying to make the job search smarter, not slower.  
